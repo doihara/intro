@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hugo Cactus Theme</title>
-    <link>https://example.org/posts/</link>
+    <link>https://doihara.github.io/intro/posts/</link>
     <description>Recent content in Posts on Hugo Cactus Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Apr 2018 21:34:19 +0200</lastBuildDate>
     
-	<atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://doihara.github.io/intro/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>One</title>
-      <link>https://example.org/posts/one/</link>
+      <link>https://doihara.github.io/intro/posts/one/</link>
       <pubDate>Tue, 03 Apr 2018 21:34:19 +0200</pubDate>
       
-      <guid>https://example.org/posts/one/</guid>
+      <guid>https://doihara.github.io/intro/posts/one/</guid>
       <description>Hello world.</description>
     </item>
     
